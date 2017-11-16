@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510074650 source:r:\megasync\tareas\6to semestre\graficación\proyecto\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<sstream>
+	<string.h>
+	<algorithm>
+	<string>
+	<queue>
+
