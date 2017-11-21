@@ -260,3 +260,16 @@
 	<_mingw.h>
 	<stddef.h>
 
+1510814961 source:r:\proyectos\laberintomagico\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<sstream>
+	<string.h>
+	<algorithm>
+	<iostream>
+	<string>
+	<queue>
+	<stack>
+
